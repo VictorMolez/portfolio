@@ -20,7 +20,7 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 *Automatisation de l’analyse de faune marine (nématodes, copépodes) avec **OpenCV, PyTorch et YOLOv5**.*
 - Extraction de caractéristiques morphologiques (taille, couleur...).
 - Collaboration avec l’Ifremer (ENIB).
-- **Technos** : Python, OpenCV, PyTorch, YOLOv5, Notebook (Google Colab, Jupiter).
+- **Technos** : Python, OpenCV, PyTorch, YOLOv5, Notebook (Google Colab, Jupyter).
 
 ### 🤖 [Assistant IA Local](https://github.com/VictorMolez/llm-local-assistant)
 *Déploiement d’un assistant vocal local avec **Qwen/Gemma (llama.cpp)** et intégration de **STT/TTS**.*

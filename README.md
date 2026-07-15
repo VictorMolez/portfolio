@@ -7,7 +7,7 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 ## 📌 À propos de moi
 - 🎓 Diplômé de l'**ENIB** (formation généraliste, spécialisation IA et traitement d'images).
 - 💼 Actuellement en recherche d'un **CDD, CDI ou d'une alternance** (Développement IA/Back-end).
-- 🔧 Compétences : Python, Rust, C++, PyTorch, YOLOv5, FastAPI, Unity, LLM (Qwen, deepseek, Gemma).
+- 🔧 Compétences : Python, C++, PyTorch, YOLOv5, FastAPI, Unity, LLM (Qwen, deepseek, Gemma).
 - 📝 [CV Victor Molez](https://github.com/VictorMolez/portfolio/blob/main/CV_Victor_MOLEZ_Ingenieur_IA.pdf)
 - 📝 [Lettre de recommandation](https://github.com/VictorMolez/portfolio/blob/main/Lettre%20de%20recommandation.pdf)
 - 📩 Contact : [victor.molez@proton.me](mailto:victor.molez@proton.me) | [LinkedIn](https://www.linkedin.com/in/victor-molez)

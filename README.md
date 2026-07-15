@@ -24,7 +24,7 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 - Collaboration avec l’Ifremer (ENIB).
 - **Technos** : Python, OpenCV, PyTorch, YOLOv5, Notebook (Google Colab, Jupyter).
 
-### 🤖 [Assistant IA Local](https://github.com/VictorMolez/llm-local-assistant)
+### 🤖 [Assistant IA Local](https://github.com/VictorMolez/local-assistant)
 *Déploiement d’un assistant vocal local avec **Qwen/Gemma (llama.cpp)** et intégration de **STT/TTS**.*
 - Test des APIs Mistral AI.
 - Fonctionne sur une **GTX 1050**.

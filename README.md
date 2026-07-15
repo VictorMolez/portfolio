@@ -12,6 +12,8 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 - 📝 [Lettre de recommandation](https://github.com/VictorMolez/portfolio/blob/main/Lettre%20de%20recommandation.pdf)
 - 📩 Contact : [victor.molez@proton.me](mailto:victor.molez@proton.me) | [LinkedIn](https://www.linkedin.com/in/victor-molez)
 
+![Infographie générée par NotebookLM](https://github.com/VictorMolez/portfolio/blob/main/Victor_Molez_infographie1.png)
+
 ---
 
 ## 🚀 Projets phares
@@ -69,3 +71,6 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 ## 🤝 Comment me contacter ?
 - **Email** : [victor.molez@proton.me](mailto:victor.molez@proton.me)
 - **LinkedIn** : [linkedin.com/in/victor-molez](https://www.linkedin.com/in/victor-molez)
+
+
+

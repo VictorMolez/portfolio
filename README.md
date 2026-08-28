@@ -7,10 +7,12 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 ## 📌 À propos de moi
 - 🎓 Diplômé de l'**ENIB** (formation généraliste, spécialisation IA et traitement d'images).
 - 💼 Actuellement en recherche d'un **CDD, CDI ou d'une alternance** (Développement IA/Back-end).
-- 🔧 Compétences : Python, Rust, C++, PyTorch, YOLOv5, FastAPI, Unity, LLM (Qwen, deepseek, Gemma).
+- 🔧 Compétences : Python, C++, PyTorch, YOLOv5, FastAPI, Unity, LLM (Qwen, deepseek, Gemma).
 - 📝 [CV Victor Molez](https://github.com/VictorMolez/portfolio/blob/main/CV_Victor_MOLEZ_Ingenieur_IA.pdf)
 - 📝 [Lettre de recommandation](https://github.com/VictorMolez/portfolio/blob/main/Lettre%20de%20recommandation.pdf)
 - 📩 Contact : [victor.molez@proton.me](mailto:victor.molez@proton.me) | [LinkedIn](https://www.linkedin.com/in/victor-molez)
+
+![Infographie générée par NotebookLM](https://github.com/VictorMolez/portfolio/blob/main/Victor_Molez_infographie1.png)
 
 ---
 
@@ -22,7 +24,7 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 - Collaboration avec l’Ifremer (ENIB).
 - **Technos** : Python, OpenCV, PyTorch, YOLOv5, Notebook (Google Colab, Jupyter).
 
-### 🤖 [Assistant IA Local](https://github.com/VictorMolez/llm-local-assistant)
+### 🤖 [Assistant IA Local](https://github.com/VictorMolez/local-assistant)
 *Déploiement d’un assistant vocal local avec **Qwen/Gemma (llama.cpp)** et intégration de **STT/TTS**.*
 - Test des APIs Mistral AI.
 - Fonctionne sur une **GTX 1050**.
@@ -69,3 +71,6 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 ## 🤝 Comment me contacter ?
 - **Email** : [victor.molez@proton.me](mailto:victor.molez@proton.me)
 - **LinkedIn** : [linkedin.com/in/victor-molez](https://www.linkedin.com/in/victor-molez)
+
+
+

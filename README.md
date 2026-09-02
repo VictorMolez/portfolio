@@ -10,6 +10,7 @@ Passionné par l'IA, j'ai une grande curiosité scientifique et j'aime apprendre
 - 🔧 Compétences : Python, C++, PyTorch, YOLOv5, FastAPI, Unity, LLM (Qwen, deepseek, Gemma).
 - 📝 [CV Victor Molez](https://github.com/VictorMolez/portfolio/blob/main/CV_Victor_MOLEZ_Ingenieur_IA.pdf)
 - 📝 [Lettre de recommandation](https://github.com/VictorMolez/portfolio/blob/main/Lettre%20de%20recommandation.pdf)
+- ✅ [Formations Anthropic](https://github.com/VictorMolez/portfolio/tree/main/formations)
 - 📩 Contact : [victor.molez@proton.me](mailto:victor.molez@proton.me) | [LinkedIn](https://www.linkedin.com/in/victor-molez)
 
 ![Infographie générée par NotebookLM](https://github.com/VictorMolez/portfolio/blob/main/Victor_Molez_infographie1.png)
